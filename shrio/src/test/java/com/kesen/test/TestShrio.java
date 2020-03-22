@@ -12,7 +12,7 @@ import org.apache.shiro.mgt.SecurityManager;
 import org.apache.shiro.subject.Subject;
 import org.apache.shiro.util.Factory;
 
-public class TestShiro {
+public class TestShrio {
 	public static void main(String[] args) {
 		//用户们
 		User zhang3 = new User();
@@ -112,7 +112,7 @@ public class TestShiro {
 
 		return subject;
 	}
-	
+
 	private static boolean login(User user) {
 		Subject subject= getSubject(user);
 		//如果已经登录过了，退出
@@ -132,5 +132,5 @@ public class TestShiro {
 		return subject.isAuthenticated();
 	}
 
-	
+
 }

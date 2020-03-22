@@ -6,10 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Algorithm" />
         <module name="annotation" />
+        <module name="DesignPatten" />
         <module name="Proxy" />
         <module name="quartz" />
         <module name="scaffolding-common" />
+        <module name="shrio" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
