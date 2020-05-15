@@ -8,7 +8,8 @@
     <artifactId>scaffolding</artifactId>
     <packaging>pom</packaging>
     <version>1.0</version>
-    <modules>
+   
+   <modules>
         <module>quartz</module>
         <module>scaffolding-dependencies</module>
         <module>scaffolding-common</module>
