@@ -2,12 +2,116 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa5f8ba5-00c5-4dfa-ba74-f4c219f18d03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/com/kesen/search/B2Search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/com/kesen/sort/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/com/kesen/sort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/main/java/com/kesen/sort/SelectSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/test/java/com/kesen/sort/SortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/src/main/java/com/kesen/search/BSearchX.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/src/main/java/com/kesen/search/BSearchX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Decorator/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Decorator/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Flyweight/ChessBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Flyweight/ChessBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Flyweight/ChessBoard2.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Flyweight/ChessBoard2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Flyweight/ChessPiece.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Flyweight/ChessPiece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Flyweight/ChessPiece2.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Flyweight/ChessPiece2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Flyweight/ChessPieceUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Flyweight/ChessPieceUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Flyweight/ChessPieceUnitFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Flyweight/ChessPieceUnitFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Flyweight/IntergerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Flyweight/IntergerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/ConcreteObserverOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/ConcreteObserverOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/ConcreteObserverTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/ConcreteObserverTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/ConcreteSubject.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/ConcreteSubject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/NotificationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/NotificationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/PromotionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/PromotionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/RegNotificationObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/RegNotificationObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/RegObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/RegObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/RegPromotionObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/RegPromotionObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/frame/AsyncEventBus.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/frame/AsyncEventBus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/frame/EventBus.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/frame/EventBus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/frame/ObserverAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/frame/ObserverAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/frame/ObserverRegistry.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/frame/ObserverRegistry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/frame/Subscribe.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/frame/Subscribe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Proxy/MetricsCollector.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Proxy/MetricsCollector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Proxy/RequestInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Proxy/RequestInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Proxy/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Proxy/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/State/ApplicationDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/State/ApplicationDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/State/MarioStateMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/State/MarioStateMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/State/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/State/State.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Template/AbstractClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Template/AbstractClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Template/ConcreteClass1.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Template/ConcreteClass1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Template/ConcreteClass2.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Template/ConcreteClass2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Template/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Template/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/callback/AClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/callback/AClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/callback/BClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/callback/BClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/callback/ICallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/callback/ICallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/callback/ShutdownHookDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/callback/ShutdownHookDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/strategy/ConcreteStrategyA.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/strategy/ConcreteStrategyA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/strategy/ConcreteStrategyB.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/strategy/ConcreteStrategyB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/strategy/Strategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/strategy/Strategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/strategy/StrategyAnno.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/strategy/StrategyAnno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/strategy/StrategyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/strategy/StrategyFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/strategy/StrategyFactory2.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/strategy/StrategyFactory2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/MultiThread/SleepTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/MultiThread/SleepTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/intermediate/multithreading/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/intermediate/multithreading/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/intermediate/multithreading/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/intermediate/multithreading/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/intermediate/multithreading/Consumer1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/intermediate/multithreading/Consumer1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/intermediate/multithreading/Custom.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/intermediate/multithreading/Custom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/intermediate/multithreading/DeakLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/intermediate/multithreading/DeakLockDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/intermediate/multithreading/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/intermediate/multithreading/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/intermediate/multithreading/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/intermediate/multithreading/Producer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/intermediate/multithreading/Producer1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/intermediate/multithreading/Producer1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/intermediate/multithreading/ProducerConsumerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/intermediate/multithreading/ProducerConsumerDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/intermediate/multithreading/Resource.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/intermediate/multithreading/Resource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/intermediate/multithreading/Thread1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/intermediate/multithreading/Thread1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/intermediate/multithreading/ThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/intermediate/multithreading/ThreadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/intermediate/multithreading/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/intermediate/multithreading/Ticket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/Date/DateKit.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/Date/DateKit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/Exception/EnemyHeroIsDeadException.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/Exception/EnemyHeroIsDeadException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/Exception/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/Exception/Hero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/array/ArrayUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/array/ArrayUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/array/CopyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/array/CopyArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/entity/ADAPHero.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/entity/ADAPHero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/entity/ADHero.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/entity/ADHero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/entity/ApHero.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/entity/ApHero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/entity/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/entity/Hero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/enums/EnumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/enums/EnumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/enums/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/enums/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/innerClass/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/innerClass/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/innerClass/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/innerClass/Hero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/innerClass/Outer.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/innerClass/Outer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/innerClass/tip.html" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/innerClass/tip.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/interfaces/AD.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/interfaces/AD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/interfaces/AP.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/interfaces/AP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/interfaces/tip.html" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/interfaces/tip.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/object/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/object/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/object/HeroType.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/object/HeroType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/reflect/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/reflect/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/reflect/ReflectClassDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/reflect/ReflectClassDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/reflect/ReflectFieldDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/reflect/ReflectFieldDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/reflect/ReflectMethodDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/reflect/ReflectMethodDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/reflect/SimpleMapperDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/reflect/SimpleMapperDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIO/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NIO/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/BufferTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/BufferTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/channel/ClientTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/channel/ClientTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/channel/FileChannelDy.java" beforeDir="false" afterPath="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/channel/FileChannelDy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/channel/NioClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/channel/NioClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/channel/NioSDiscardServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/channel/NioSDiscardServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/channel/NioServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/channel/NioServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/channel/ServerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/channel/ServerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/channel/UDPClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/channel/UDPClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/channel/UDPClientTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/channel/UDPClientTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/channel/UDPServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/channel/UDPServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/channel/UDPServerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/channel/UDPServerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/futureTask/FutureTaskDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/futureTask/FutureTaskDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/reactor/EchoClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/reactor/EchoClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/reactor/EchoHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/reactor/EchoHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/reactor/EchoServerReactor.java" beforeDir="false" afterPath="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/reactor/EchoServerReactor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scaffolding-dependencies/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/scaffolding-dependencies/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,6 +123,8 @@
     <ignored path="$PROJECT_DIR$/shrio/target/" />
     <ignored path="$PROJECT_DIR$/Algorithm/target/" />
     <ignored path="$PROJECT_DIR$/DesignPatten/target/" />
+    <ignored path="$PROJECT_DIR$/JAVASE/target/" />
+    <ignored path="$PROJECT_DIR$/NIO/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,109 +145,106 @@
     <expand />
     <select />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="scaffolding" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithm/src/main/java/com/kesen/sort/InsertionSort.java">
+        <entry file="file://$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/frame/EventBus.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="640">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="440">
+              <caret line="31" column="65" selection-start-line="31" selection-start-column="65" selection-end-line="31" selection-end-column="65" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithm/src/main/java/com/kesen/sort/QuickSort.java">
+        <entry file="file://$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/frame/ObserverAction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
+            <state relative-caret-position="180">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Algorithm/src/main/java/com/kesen/search/B2Search.java">
+        <entry file="file://$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/enums/EnumTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
-              <folding>
-                <element signature="e#171#172#0" expanded="true" />
-                <element signature="e#225#226#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="320">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithm/src/main/java/com/kesen/sort/SelectSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithm/src/test/java/com/kesen/sort/SortTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="26" column="53" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithm/src/main/java/com/kesen/sort/MergeSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/di/BeansFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="580">
-              <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/java/jdk8/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17140">
-              <caret line="933" column="13" selection-start-line="933" selection-start-column="13" selection-end-line="933" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/di/BeanCreationFailureException.java">
+        <entry file="file://$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/enums/Pizza.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
-              <caret line="13" column="74" selection-start-line="13" selection-start-column="74" selection-end-line="13" selection-end-column="74" />
+              <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
               <folding>
-                <element signature="e#232#233#0" expanded="true" />
-                <element signature="e#253#254#0" expanded="true" />
-                <element signature="e#354#355#0" expanded="true" />
+                <element signature="e#240#241#0" expanded="true" />
+                <element signature="e#262#263#0" expanded="true" />
+                <element signature="e#323#324#0" expanded="true" />
+                <element signature="e#345#346#0" expanded="true" />
+                <element signature="e#414#415#0" expanded="true" />
+                <element signature="e#436#437#0" expanded="true" />
+                <element signature="e#645#646#0" expanded="true" />
+                <element signature="e#675#676#0" expanded="true" />
+                <element signature="e#713#714#0" expanded="true" />
+                <element signature="e#758#759#0" expanded="true" />
+                <element signature="e#795#796#0" expanded="true" />
+                <element signature="e#830#831#0" expanded="true" />
+                <element signature="e#329#330#0" expanded="true" />
+                <element signature="e#349#350#0" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/di/NoSuchBeanDefinitionException.java">
+        <entry file="file://$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/callback/AClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/callback/BClass.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="140">
-              <caret line="7" column="68" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="68" />
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/callback/ICallback.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/callback/ShutdownHookDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/frame/Subscribe.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -151,8 +254,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
+        <option value="FxmlFile" />
         <option value="AnnotationType" />
+        <option value="Kotlin File" />
+        <option value="Singleton" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -163,6 +271,8 @@
       <find>jdbc</find>
       <find>conn</find>
       <find>junit</find>
+      <find>newProxyInstance</find>
+      <find>Log4jLoggerAdapter</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -171,54 +281,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/quartz/src/main/java/com/kesen/MailJob.java" />
-        <option value="$PROJECT_DIR$/quartz/src/main/java/com/kesen/DatabaseBackupJob.java" />
-        <option value="$PROJECT_DIR$/quartz/src/main/java/com/kesen/Exception1.java" />
-        <option value="$PROJECT_DIR$/quartz/src/main/java/com/kesen/Exception2.java" />
-        <option value="$PROJECT_DIR$/quartz/src/main/java/com/kesen/StoppableJob.java" />
-        <option value="$PROJECT_DIR$/quartz/pom.xml" />
-        <option value="$PROJECT_DIR$/quartz/src/main/resources/quartz.properties" />
-        <option value="$PROJECT_DIR$/quartz/src/test/java/TestQuartz.java" />
-        <option value="$PROJECT_DIR$/annotation/src/main/java/com/kesen/JDBCConfig.java" />
-        <option value="$PROJECT_DIR$/annotation/src/main/java/com/kesen/annotation/JDBCConfig.java" />
-        <option value="$PROJECT_DIR$/annotation/pom.xml" />
-        <option value="$PROJECT_DIR$/annotation/src/main/java/com/kesen/examples/DBUtil.java" />
-        <option value="$PROJECT_DIR$/Proxy/src/main/java/com/kesen/interfaces/IPerson.java" />
-        <option value="$PROJECT_DIR$/Proxy/src/main/java/com/kesen/interfaces/impl/Man.java" />
-        <option value="$PROJECT_DIR$/Proxy/src/main/java/com/kesen/interfaces/impl/ManProxy.java" />
-        <option value="$PROJECT_DIR$/Proxy/src/main/java/com/kesen/interfaces/impl/NormalHandler.java" />
-        <option value="$PROJECT_DIR$/Proxy/src/main/java/com/kesen/interfaces/UserManager.java" />
-        <option value="$PROJECT_DIR$/Proxy/src/main/java/com/kesen/interfaces/impl/UserManagerImpl.java" />
-        <option value="$PROJECT_DIR$/Proxy/src/main/java/com/kesen/examples/proxyTest.java" />
-        <option value="$PROJECT_DIR$/Proxy/src/main/java/com/kesen/interfaces/impl/UserManagerImplProxy.java" />
-        <option value="$PROJECT_DIR$/Proxy/pom.xml" />
-        <option value="$PROJECT_DIR$/Proxy/src/main/java/com/kesen/examples/Client.java" />
-        <option value="$PROJECT_DIR$/Proxy/src/main/java/com/kesen/interfaces/impl/LogHandler.java" />
-        <option value="$PROJECT_DIR$/scaffolding-dependencies/pom.xml" />
-        <option value="$PROJECT_DIR$/shrio/src/test/java/TestShrio.java" />
-        <option value="$PROJECT_DIR$/shrio/src/test/java/com/kesen/test/TestShrio.java" />
-        <option value="$PROJECT_DIR$/shrio/src/main/java/com/kesen/model/User.java" />
-        <option value="$PROJECT_DIR$/shrio/pom.xml" />
-        <option value="$PROJECT_DIR$/shrio/src/main/java/com/kesen/dao/DAO.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/main/java/com/kesen/list/model/Node.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/main/java/com/kesen/list/testExamples/ReverseList.java" />
-        <option value="$PROJECT_DIR$/Algorithm/pom.xml" />
-        <option value="$PROJECT_DIR$/Algorithm/src/test/java/com/kesen/testLinkList/ReserseTest.java" />
+        <option value="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/RegNotificationObserver.java" />
+        <option value="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/NotificationService.java" />
+        <option value="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/frame/Subscribe.java" />
+        <option value="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/frame/ObserverAction.java" />
+        <option value="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/frame/ObserverRegistry.java" />
+        <option value="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/frame/EventBus.java" />
+        <option value="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/frame/AsyncEventBus.java" />
+        <option value="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Template/ConcreteClass1.java" />
+        <option value="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Template/ConcreteClass2.java" />
+        <option value="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Template/Demo.java" />
+        <option value="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Template/AbstractClass.java" />
+        <option value="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/callback/BClass.java" />
+        <option value="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/callback/ICallback.java" />
+        <option value="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/callback/AClass.java" />
+        <option value="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/callback/ShutdownHookDemo.java" />
+        <option value="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/State/State.java" />
+        <option value="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/State/ApplicationDemo.java" />
+        <option value="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/State/MarioStateMachine.java" />
+        <option value="$PROJECT_DIR$/NIO/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/DesignPatten/pom.xml" />
-        <option value="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/di/BeanConfigParser.java" />
-        <option value="$PROJECT_DIR$/scaffolding-common/pom.xml" />
-        <option value="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/di/NoSuchBeanDefinitionException.java" />
-        <option value="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/di/BeanCreationFailureException.java" />
-        <option value="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/di/BeansFactory.java" />
-        <option value="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/di/XmlBeanConfigParser.java" />
-        <option value="$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/di/BeanDefinition.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/main/java/com/kesen/sort/InsertionSort.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/main/java/com/kesen/sort/SelectSort.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/main/java/com/kesen/sort/MergeSort.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/main/java/com/kesen/sort/QuickSort.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/test/java/com/kesen/sort/SortTest.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/main/java/com/kesen/search/B2Search.java" />
+        <option value="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/BufferTest.java" />
+        <option value="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/channel/ChannlTest.java" />
+        <option value="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/channel/FileChannelDy.java" />
+        <option value="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/channel/SocketchannelDy.java" />
+        <option value="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/channel/socketTest.java" />
+        <option value="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/channel/ServerTest.java" />
+        <option value="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/channel/ClientTest.java" />
+        <option value="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/channel/NioServer.java" />
+        <option value="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/channel/NioClient.java" />
+        <option value="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/channel/UDPServerTest.java" />
+        <option value="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/channel/UDPClientTest.java" />
+        <option value="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/channel/UDPServer.java" />
+        <option value="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/channel/UDPClient.java" />
+        <option value="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/channel/NioSDiscardServer.java" />
+        <option value="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/reactor/Reactor.java" />
+        <option value="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/reactor/EchoHandler.java" />
+        <option value="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/reactor/EchoServerReactor.java" />
+        <option value="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/reactor/EchoClient.java" />
+        <option value="$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/futureTask/FutureTaskDemo.java" />
+        <option value="$PROJECT_DIR$/../spring-boot-02-conifg-autoconfig/pom.xml" />
+        <option value="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/MultiThread/SleepTest.java" />
+        <option value="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/reflect/Student.java" />
+        <option value="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/reflect/ReflectDemo.java" />
+        <option value="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/reflect/ReflectClassDemo.java" />
+        <option value="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/reflect/ReflectMethodDemo.java" />
+        <option value="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/reflect/ReflectFieldDemo.java" />
+        <option value="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/reflect/Person.java" />
+        <option value="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/reflect/SimpleMapperDemo.java" />
+        <option value="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/enums/PizzaStatus.java" />
+        <option value="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/enums/Pizza.java" />
+        <option value="$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/enums/EnumTest.java" />
       </list>
     </option>
   </component>
@@ -235,20 +348,30 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="shrio" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Algorithm" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="shrio" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="JAVASE" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JAVASE" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JAVASE" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="com.kesen:scaffolding-common:1.0" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="-1776" />
+    <option name="y" value="34" />
     <option name="width" value="1616" />
     <option name="height" value="876" />
   </component>
@@ -280,86 +403,58 @@
             <path>
               <item name="scaffolding" type="b2602c69:ProjectViewProjectNode" />
               <item name="scaffolding" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="JAVASE" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="scaffolding" type="b2602c69:ProjectViewProjectNode" />
               <item name="scaffolding" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="JAVASE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="scaffolding" type="b2602c69:ProjectViewProjectNode" />
               <item name="scaffolding" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scaffolding" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scaffolding" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="JAVASE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="scaffolding" type="b2602c69:ProjectViewProjectNode" />
               <item name="scaffolding" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="JAVASE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="kesen" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="scaffolding" type="b2602c69:ProjectViewProjectNode" />
               <item name="scaffolding" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="JAVASE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="kesen" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="scaffolding" type="b2602c69:ProjectViewProjectNode" />
               <item name="scaffolding" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="JAVASE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scaffolding" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scaffolding" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scaffolding" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scaffolding" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="kesen" type="462c0819:PsiDirectoryNode" />
+              <item name="primary" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="scaffolding" type="b2602c69:ProjectViewProjectNode" />
               <item name="scaffolding" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="JAVASE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="kesen" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scaffolding" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scaffolding" type="462c0819:PsiDirectoryNode" />
-              <item name="shrio" type="462c0819:PsiDirectoryNode" />
+              <item name="primary" type="462c0819:PsiDirectoryNode" />
+              <item name="enums" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -368,20 +463,25 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586691863334" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1607556439320" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="project.structure.side.proportion" value="0.3873563" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.kesen.annotation" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.kesen.design.patten.Observer" />
+      <recent name="com.kesen.design.patten.Proxy" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Project\eclipse\newversion\scaffolding\shrio\src\main\resources" />
@@ -400,13 +500,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SortTest">
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kesen.sort.MergeSort" />
-      <module name="Algorithm" />
+  <component name="RunManager" selected="Application.EnumTest">
+    <configuration name="ClientTest" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kesen.io.channel.ClientTest" />
+      <module name="NIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kesen.sort.*" />
+          <option name="PATTERN" value="com.kesen.io.channel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -414,76 +514,156 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
+    <configuration name="EchoClient" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kesen.io.reactor.EchoClient" />
+      <module name="NIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kesen.sort.*" />
+          <option name="PATTERN" value="com.kesen.io.reactor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.kesen.sort" />
-      <option name="MAIN_CLASS_NAME" value="com.kesen.sort.SortTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortTest.mergeSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
+    <configuration name="EchoServerReactor" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kesen.io.reactor.EchoServerReactor" />
+      <module name="NIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kesen.sort.*" />
+          <option name="PATTERN" value="com.kesen.io.reactor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.kesen.sort" />
-      <option name="MAIN_CLASS_NAME" value="com.kesen.sort.SortTest" />
-      <option name="METHOD_NAME" value="mergeSortTest" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortTest.quickSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
+    <configuration name="EnumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kesen.primary.enums.EnumTest" />
+      <module name="JAVASE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kesen.sort.*" />
+          <option name="PATTERN" value="com.kesen.primary.enums.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.kesen.sort" />
-      <option name="MAIN_CLASS_NAME" value="com.kesen.sort.SortTest" />
-      <option name="METHOD_NAME" value="quickSortTest" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortTest.selectSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
+    <configuration name="NioSDiscardServer" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kesen.io.channel.NioSDiscardServer" />
+      <module name="NIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kesen.sort.*" />
+          <option name="PATTERN" value="com.kesen.io.channel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.kesen.sort" />
-      <option name="MAIN_CLASS_NAME" value="com.kesen.sort.SortTest" />
-      <option name="METHOD_NAME" value="selectSortTest" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReflectClassDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kesen.reflect.ReflectClassDemo" />
+      <module name="JAVASE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kesen.reflect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectFieldDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kesen.reflect.ReflectFieldDemo" />
+      <module name="JAVASE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kesen.reflect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectMethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kesen.reflect.ReflectMethodDemo" />
+      <module name="JAVASE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kesen.reflect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleMapperDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kesen.reflect.SimpleMapperDemo" />
+      <module name="JAVASE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kesen.reflect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UDPClientTest" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kesen.io.channel.UDPClientTest" />
+      <module name="NIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kesen.io.channel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UDPServerTest" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kesen.io.channel.UDPServerTest" />
+      <module name="NIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kesen.io.channel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.EchoClient" />
+      <item itemvalue="Application.EchoServerReactor" />
+      <item itemvalue="Application.ClientTest" />
+      <item itemvalue="Application.UDPServerTest" />
+      <item itemvalue="Application.UDPClientTest" />
+      <item itemvalue="Application.NioSDiscardServer" />
+      <item itemvalue="Application.ReflectClassDemo" />
+      <item itemvalue="Application.ReflectFieldDemo" />
+      <item itemvalue="Application.ReflectMethodDemo" />
+      <item itemvalue="Application.SimpleMapperDemo" />
+      <item itemvalue="Application.EnumTest" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SortTest" />
-        <item itemvalue="JUnit.SortTest.quickSortTest" />
-        <item itemvalue="Application.MergeSort" />
-        <item itemvalue="JUnit.SortTest.mergeSortTest" />
-        <item itemvalue="JUnit.SortTest.selectSortTest" />
+        <item itemvalue="Application.EnumTest" />
+        <item itemvalue="Application.SimpleMapperDemo" />
+        <item itemvalue="Application.ReflectMethodDemo" />
+        <item itemvalue="Application.ReflectFieldDemo" />
+        <item itemvalue="Application.ReflectClassDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -509,7 +689,30 @@
       <workItem from="1585748856928" duration="3612000" />
       <workItem from="1586654568368" duration="885000" />
       <workItem from="1586674132191" duration="4322000" />
-      <workItem from="1586691125982" duration="633000" />
+      <workItem from="1586691125982" duration="3420000" />
+      <workItem from="1587386201773" duration="1013000" />
+      <workItem from="1587425699526" duration="4739000" />
+      <workItem from="1587819713694" duration="15556000" />
+      <workItem from="1588114526466" duration="2126000" />
+      <workItem from="1588858502396" duration="11614000" />
+      <workItem from="1589103073567" duration="9627000" />
+      <workItem from="1589199475656" duration="3278000" />
+      <workItem from="1589379612155" duration="598000" />
+      <workItem from="1589411615740" duration="652000" />
+      <workItem from="1596463869312" duration="1098000" />
+      <workItem from="1596627186807" duration="15526000" />
+      <workItem from="1596946576214" duration="7151000" />
+      <workItem from="1597322022535" duration="1382000" />
+      <workItem from="1598070414907" duration="1856000" />
+      <workItem from="1598151010150" duration="590000" />
+      <workItem from="1598627523699" duration="596000" />
+      <workItem from="1599569175648" duration="591000" />
+      <workItem from="1601303815684" duration="1173000" />
+      <workItem from="1601430072869" duration="115000" />
+      <workItem from="1604969934897" duration="654000" />
+      <workItem from="1606651023610" duration="7376000" />
+      <workItem from="1607236435016" duration="3509000" />
+      <workItem from="1607555709882" duration="897000" />
     </task>
     <task id="LOCAL-00001" summary="设计模式">
       <created>1584879465973</created>
@@ -518,7 +721,21 @@
       <option name="project" value="LOCAL" />
       <updated>1584879465974</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="排序和算法：归并、快排、选择、">
+      <created>1586691935975</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586691935975</updated>
+    </task>
+    <task id="LOCAL-00003" summary="插入排序">
+      <created>1586691972919</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586691972919</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -554,39 +771,38 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52385000" />
+    <option name="totallyTimeSpent" value="146889000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
+    <frame x="-1374" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24871466" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4990403" visible="true" weight="0.21028744" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Favorites" order="6" sideWeight="0.5009597" side_tool="true" weight="0.25449872" />
       <window_info id="Designer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49871466" visible="true" weight="0.04043127" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6606684" weight="0.04043127" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49807197" weight="0.39892185" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49871466" weight="0.5262295" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.65938306" visible="true" weight="0.04918033" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4974293" weight="0.2967213" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4974293" weight="0.29475102" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4974293" weight="0.29380053" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="JRebel Executor" order="13" />
-      <window_info anchor="bottom" id="JRebel Console" order="14" sideWeight="0.33933163" side_tool="true" visible="true" weight="0.04043127" />
+      <window_info anchor="bottom" id="JRebel Console" order="14" sideWeight="0.34061697" side_tool="true" weight="0.5849057" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.14138818" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.022692889" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" weight="0.32969153" />
@@ -600,7 +816,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="设计模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="设计模式" />
+    <MESSAGE value="排序和算法：归并、快排、选择、" />
+    <MESSAGE value="插入排序" />
+    <option name="LAST_COMMIT_MESSAGE" value="插入排序" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -613,6 +831,36 @@
           </properties>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/intermediate/multithreading/Ticket.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/intermediate/multithreading/Food.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/channel/NioServer.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/channel/NioClient.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/reflect/ReflectFieldDemo.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -620,413 +868,453 @@
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>e.getClass().getName()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>e.getClass()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>e.getStackTrace()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>e.printStackTrace();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>e.get</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>e.getCause()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>e.getMessage()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>selector.select()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>selector.select() &gt; 0</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/logs/log.log">
+    <entry file="jar://E:/java/jdk8/src.zip!/java/nio/channels/SelectableChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5080">
+          <caret line="279" column="31" selection-start-line="279" selection-start-column="31" selection-end-line="279" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NIO/src/main/java/com/kesen/io/channel/UDPServerTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Proxy/src/main/java/com/kesen/examples.java" />
-    <entry file="file://$PROJECT_DIR$/Proxy/src/main/java/com/kesen/interfaces/impl/NormalHandler.java">
+    <entry file="jar://E:/java/jdk8/src.zip!/java/nio/channels/SelectionKey.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="17" column="28" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="28" />
+        <state relative-caret-position="180">
+          <caret line="216" column="7" selection-start-line="216" selection-start-column="7" selection-end-line="216" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Proxy/src/main/java/com/kesen/App.java" />
-    <entry file="file://$PROJECT_DIR$/Proxy/src/test/java/com/kesen/AppTest.java" />
-    <entry file="file://$PROJECT_DIR$/Proxy/pom.xml">
+    <entry file="file://$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/array/CopyArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="260">
+          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Proxy/src/main/java/com/kesen/interfaces/impl/UserManagerImplProxy.java">
+    <entry file="file://$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/array/ArrayUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-          <folding>
-            <element signature="e#1016#1017#0" expanded="true" />
-            <element signature="e#1051#1052#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="380">
+          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Proxy/src/main/java/com/kesen/interfaces/impl/UserManagerImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shrio/src/main/resources/shiro.ini">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar!/org/apache/commons/lang3/time/DateFormatUtils.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shrio/src/test/java/com/kesen/test/TestShrio.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2000">
-          <caret line="110" column="39" selection-start-line="110" selection-start-column="26" selection-end-line="110" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Proxy/src/main/java/com/kesen/interfaces/impl/LogHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java/jdk8/src.zip!/java/lang/reflect/Proxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13180">
-          <caret line="702" column="25" selection-start-line="702" selection-start-column="25" selection-end-line="702" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java/jdk8/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15140">
-          <caret line="830" column="22" selection-start-line="830" selection-start-column="22" selection-end-line="830" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/annotation/src/main/java/com/kesen/annotation/JDBCConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="44" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/annotation/src/main/java/com/kesen/examples/DBUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Proxy/src/main/java/com/kesen/examples/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Proxy/src/main/java/com/kesen/interfaces/IPerson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Proxy/src/main/java/com/kesen/interfaces/UserManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Proxy/src/main/java/com/kesen/interfaces/impl/Man.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Proxy/src/main/java/com/kesen/interfaces/impl/ManProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shrio/src/main/java/com/kesen/dao/DAO.java">
+    <entry file="file://$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/Date/DateKit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="20" column="29" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="29" />
+          <caret line="53" column="30" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="40" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#922#923#0" expanded="true" />
+            <element signature="e#979#980#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/main/java/com/kesen/list/model/Node.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5-sources.jar!/org/apache/commons/lang3/time/DateFormatUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        <state relative-caret-position="20">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/entity/ADAPHero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/entity/ApHero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="13" selection-end-column="5" />
           <folding>
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/main/java/com/kesen/list/testExamples/ReverseList.java">
+    <entry file="file://$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/entity/Hero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="26" column="27" lean-forward="true" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/entity/ADHero.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shrio/src/main/java/com/kesen/model/User.java">
+    <entry file="file://$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/Exception/Hero.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="300">
+          <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/annotation/pom.xml">
+    <entry file="file://$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/Exception/EnemyHeroIsDeadException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="44" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="44" />
+        <state relative-caret-position="160">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/pom.xml">
+    <entry file="file://$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/innerClass/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        <state relative-caret-position="460">
+          <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shrio/pom.xml">
+    <entry file="file://$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/innerClass/tip.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="480">
+          <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quartz/pom.xml">
+    <entry file="file://$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/innerClass/Outer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="31" selection-start-line="12" selection-start-column="3" selection-end-line="14" selection-end-column="31" />
+        <state relative-caret-position="380">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/innerClass/Hero.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        <state relative-caret-position="480">
+          <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DesignPatten/pom.xml">
+    <entry file="file://$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/interfaces/AD.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        <state relative-caret-position="40">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/object/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scaffolding-dependencies/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="182" selection-start-line="151" selection-start-column="9" selection-end-line="182" />
-          <folding>
-            <element signature="n#build#0;n#project#0;n#!!top" />
-          </folding>
+        <state relative-caret-position="360">
+          <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/di/BeanConfigParser.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk8/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk8/src.zip!/java/lang/reflect/Field.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="806">
+          <caret line="747" column="20" lean-forward="true" selection-start-line="747" selection-start-column="20" selection-end-line="747" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVASE/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/java/jdk8/src.zip!/java/lang/Exception.java">
+    <entry file="jar://E:/java/jdk8/src.zip!/java/lang/Class.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="64" column="11" selection-start-line="64" selection-start-column="11" selection-end-line="64" selection-end-column="11" />
-          <folding>
-            <element signature="e#1663#1664#0" expanded="true" />
-            <element signature="e#1693#1694#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="40560">
+          <caret line="2111" column="18" selection-start-line="2111" selection-start-column="18" selection-end-line="2111" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/di/XmlBeanConfigParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17">
-          <caret line="47" column="26" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/di/BeanDefinition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="158" column="13" selection-start-line="158" selection-start-column="13" selection-end-line="158" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#643#644#0" expanded="true" />
-            <element signature="e#690#691#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java/jdk8/src.zip!/com/sun/org/apache/xerces/internal/jaxp/DocumentBuilderFactoryImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="57" column="19" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java/jdk8/src.zip!/org/w3c/dom/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="169" column="30" selection-start-line="169" selection-start-column="30" selection-end-line="169" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scaffolding-common/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="83" selection-start-line="83" selection-end-line="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+    <entry file="file://$PROJECT_DIR$/annotation/src/main/java/com/kesen/examples/DBUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/test/java/com/kesen/testLinkList/ReserseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/java/jdk8/src.zip!/com/sun/org/apache/xerces/internal/jaxp/DocumentBuilderImpl.java">
+    <entry file="file://$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/reflect/ReflectClassDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="62" column="13" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
+        <state relative-caret-position="560">
+          <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/main/java/com/kesen/sort/InsertionSort.java">
+    <entry file="file://$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/reflect/ReflectFieldDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="640">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/main/java/com/kesen/sort/SelectSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/test/java/com/kesen/sort/SortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="26" column="53" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
+          <caret line="33" column="51" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/main/java/com/kesen/sort/MergeSort.java">
+    <entry file="file://$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/reflect/ReflectMethodDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+        <state relative-caret-position="260">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/di/BeansFactory.java">
+    <entry file="jar://E:/java/jdk8/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        <state relative-caret-position="16300">
+          <caret line="848" column="11" selection-start-line="848" selection-start-column="11" selection-end-line="848" selection-end-column="11" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#32532#32533#0" expanded="true" />
+            <element signature="e#32566#32567#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/java/jdk8/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+    <entry file="file://$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/reflect/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17140">
-          <caret line="933" column="13" selection-start-line="933" selection-start-column="13" selection-end-line="933" selection-end-column="13" />
+        <state relative-caret-position="360">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/di/BeanCreationFailureException.java">
+    <entry file="file://$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/reflect/SimpleMapperDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/annotation/src/main/java/com/kesen/annotation/JDBCConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/frame/AsyncEventBus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/RegObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/NotificationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/frame/ObserverRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-110">
+          <caret line="49" column="84" lean-forward="true" selection-start-line="49" selection-start-column="84" selection-end-line="49" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/frame/EventBus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="31" column="65" selection-start-line="31" selection-start-column="65" selection-end-line="31" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/callback/AClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="13" column="74" selection-start-line="13" selection-start-column="74" selection-end-line="13" selection-end-column="74" />
-          <folding>
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#253#254#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
-          </folding>
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/di/NoSuchBeanDefinitionException.java">
+    <entry file="file://$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/callback/BClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
-          <caret line="7" column="68" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="68" />
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/main/java/com/kesen/sort/QuickSort.java">
+    <entry file="file://$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/callback/ICallback.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
+        <state relative-caret-position="100">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/main/java/com/kesen/search/B2Search.java">
+    <entry file="file://$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/callback/ShutdownHookDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+        <state relative-caret-position="320">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/frame/Subscribe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatten/src/main/java/com/kesen/design/patten/Observer/frame/ObserverAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/enums/PizzaStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="13" lean-forward="true" selection-start-line="3" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/enums/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
           <folding>
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+            <element signature="e#675#676#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+            <element signature="e#758#759#0" expanded="true" />
+            <element signature="e#795#796#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVASE/src/main/java/com/kesen/primary/enums/EnumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
@@ -1039,7 +1327,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.3873563" />
               </list>
             </option>
           </splitter-proportions>
@@ -1051,7 +1339,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.3873563" />
               </list>
             </option>
           </splitter-proportions>
@@ -1070,11 +1358,11 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.7</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.3873563" />
               </list>
             </option>
           </splitter-proportions>
@@ -1082,7 +1370,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>scaffolding</last-edited>
+          <last-edited>NIO</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1111,7 +1399,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.3873563" />
               </list>
             </option>
           </splitter-proportions>

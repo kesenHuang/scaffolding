@@ -6,4 +6,9 @@ package com.kesen.io.channel;
  * @Description:
  **/
 public class UDPClientTest {
+
+	public static void main(String[] args) {
+		UDPClient client = new UDPClient();
+		client.sendFile();
+	}
 }

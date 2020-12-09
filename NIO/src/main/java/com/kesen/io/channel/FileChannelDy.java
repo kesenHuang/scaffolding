@@ -9,7 +9,7 @@ import java.nio.channels.FileChannel;
  * @Date: 2020/8/5 19:42
  * @Description:
  **/
-public class ChannlTest {
+public class FileChannelDy {
 	static String srcFile = "C://Users//kesen//Desktop//ca_log_audit_event_mysql_20200725.sql";
 	static String dstFile = "C://Users//kesen//Desktop//dst.sql";
 

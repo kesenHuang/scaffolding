@@ -9,6 +9,8 @@
         <module name="Algorithm" />
         <module name="annotation" />
         <module name="DesignPatten" />
+        <module name="JAVASE" />
+        <module name="NIO" />
         <module name="Proxy" />
         <module name="quartz" />
         <module name="scaffolding-common" />

@@ -1,5 +1,6 @@
 package com.kesen.io.reactor;
 
+import java.io.IOException;
 import java.net.InetSocketAddress;
 import java.nio.channels.SelectionKey;
 import java.nio.channels.Selector;
@@ -13,13 +14,13 @@ import java.util.Set;
  * @Date: 2020/8/6 22:28
  * @Description:
  **/
-public class Reactor implements Runnable {
+public class EchoServerReactor implements Runnable {
 
 	Selector selector;
 	ServerSocketChannel serverSocketChannel;
 
-	public Reactor() throws Exception {
-		selector= Selector.open();
+	public EchoServerReactor() throws Exception {
+		selector = Selector.open();
 		serverSocketChannel = ServerSocketChannel.open();
 		serverSocketChannel.configureBlocking(false);
 		serverSocketChannel.socket().bind(new InetSocketAddress("127.0.0.1", 80));
@@ -32,16 +33,15 @@ public class Reactor implements Runnable {
 	public void run() {
 
 		while (!Thread.interrupted()) {
-			try
-			{
-			while (selector.select() > 0) {
-				Set<SelectionKey> selectionKeys =  selector.selectedKeys();
-				Iterator <SelectionKey> iterator = selectionKeys.iterator();
-				while (iterator.hasNext()) {
-					SelectionKey selectionKey = iterator.next();
-					dispatch(selectionKey);
+			try {
+				while (selector.select() > 0) {
+					Set<SelectionKey> selectionKeys = selector.selectedKeys();
+					Iterator<SelectionKey> iterator = selectionKeys.iterator();
+					while (iterator.hasNext()) {
+						SelectionKey selectionKey = iterator.next();
+						dispatch(selectionKey);
+					}
 				}
-			}
 			} catch (Exception e) {
 
 			}
@@ -56,13 +56,21 @@ public class Reactor implements Runnable {
 		}
 	}
 
-	class  AcceptorHandler implements  Runnable {
+	class AcceptorHandler implements Runnable {
 		@Override
 		public void run() {
-			SocketChannel socketChannel = serverSocketChannel.accept();
-			if (null != socketChannel) {
-				
+			try {
+				SocketChannel socketChannel = serverSocketChannel.accept();
+				if (null != socketChannel) {
+					new EchoHandler(selector, socketChannel);
+				}
+			} catch (IOException e) {
+
 			}
 		}
+	}
+
+	public static void main(String[] args) throws Exception{
+		new Thread(new EchoServerReactor()).start();
 	}
 }

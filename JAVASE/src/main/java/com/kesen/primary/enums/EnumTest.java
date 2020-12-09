@@ -6,4 +6,11 @@ package com.kesen.primary.enums;
  * @Description:
  **/
 public class EnumTest {
+	public static void main(String[] args) {
+		//System.out.println(PizzaStatus.ORDER.name());//ORDERED
+		Pizza testPz = new Pizza();
+		testPz.setStatus(Pizza.PizzaStatus.DELIVERED);
+
+		System.out.println(testPz.getStatus().equals(Pizza.PizzaStatus.DELIVERED));
+	}
 }

@@ -6,4 +6,6 @@ package com.kesen.design.patten.Proxy;
  * @Description:
  **/
 public class MetricsCollector {
+	public void recordRequest(RequestInfo requestInfo) {
+	}
 }

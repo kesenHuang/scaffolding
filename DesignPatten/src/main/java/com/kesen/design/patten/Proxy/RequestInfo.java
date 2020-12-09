@@ -6,4 +6,6 @@ package com.kesen.design.patten.Proxy;
  * @Description:
  **/
 public class RequestInfo {
+	public RequestInfo(String login, long responseTime, long startTimestamp) {
+	}
 }

@@ -6,4 +6,8 @@ package com.kesen.design.patten.Template;
  * @Description:
  **/
 public class Demo {
+	public static void main(String[] args) {
+		AbstractClass abstractClass = new ConcreteClass1();
+		abstractClass.templateMethod();
+	}
 }

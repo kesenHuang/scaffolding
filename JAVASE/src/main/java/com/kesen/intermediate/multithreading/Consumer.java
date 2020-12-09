@@ -5,5 +5,19 @@ package com.kesen.intermediate.multithreading;
  * @Date: 2020/4/27 21:42
  * @Description:
  **/
-public class Consumer {
+
+public  class Consumer implements Runnable {
+	private Resource resource;
+	Consumer (Resource resource) {
+		this.resource = resource;
+	}
+
+	@Override
+	public void run() {
+		while(true)
+		{
+			resource.out();
+		}
+
+	}
 }

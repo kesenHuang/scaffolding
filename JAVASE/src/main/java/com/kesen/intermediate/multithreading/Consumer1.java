@@ -5,10 +5,10 @@ package com.kesen.intermediate.multithreading;
  * @Date: 2020/4/29 07:09
  * @Description:
  **/
-public class Consumer2 implements Runnable {
+public class Consumer1 implements Runnable {
 
 	private Food food;
-	Consumer2 (Food food) {
+	Consumer1(Food food) {
 		this.food = food;
 	}
 

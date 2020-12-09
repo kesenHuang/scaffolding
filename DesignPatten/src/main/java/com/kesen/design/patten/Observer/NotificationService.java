@@ -5,5 +5,6 @@ package com.kesen.design.patten.Observer;
  * @Date: 2020/5/9 08:11
  * @Description:
  **/
-public class NotificationService {
+public interface NotificationService {
+	void  sendInboxMessage(long userId, String msg);
 }

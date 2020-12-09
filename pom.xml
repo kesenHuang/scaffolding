@@ -17,6 +17,8 @@
         <module>shrio</module>
         <module>Algorithm</module>
         <module>DesignPatten</module>
+        <module>JAVASE</module>
+        <module>NIO</module>
     </modules>
 
     <name>scaffolding</name>

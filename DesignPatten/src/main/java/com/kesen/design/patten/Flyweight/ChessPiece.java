@@ -1,9 +1,9 @@
-package com.kesen.design.patten.Proxy;
+package com.kesen.design.patten.Flyweight;
 
 /**
  * @Auther: kesen
  * @Date: 2020/5/8 20:50
- * @Description:
+ * @Description:棋子类
  **/
 public class ChessPiece {
 

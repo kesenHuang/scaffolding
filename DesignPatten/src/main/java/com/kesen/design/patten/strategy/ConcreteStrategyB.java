@@ -5,5 +5,10 @@ package com.kesen.design.patten.strategy;
  * @Date: 2020/5/11 21:24
  * @Description:
  **/
-public class ConcreteStrategyB {
+@StrategyAnno
+public class ConcreteStrategyB implements Strategy {
+	@Override
+	public void algorithmInterface() {
+		// 算法2
+	}
 }

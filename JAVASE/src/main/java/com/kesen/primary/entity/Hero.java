@@ -1,4 +1,4 @@
-package com.kesen.primary;
+package com.kesen.primary.entity;
 
 /**
  * @Auther: kesen
@@ -14,8 +14,15 @@ public class Hero {
 
 	int moveSpeed; //移动速度
 
+	public Hero(String name, float hp, float armor, int moveSpeed) {
+		this.name = name;
+		this.hp = hp;
+		this.armor = armor;
+		this.moveSpeed = moveSpeed;
+	}
+
 	public static void main(String[] args) {
-		Hero garen =  new Hero();
+		/*Hero garen =  new Hero();
 		garen.name = "盖伦";
 		garen.hp = 616.28f;
 		garen.armor = 27.536f;
@@ -25,6 +32,6 @@ public class Hero {
 		teemo.name = "提莫";
 		teemo.hp = 383f;
 		teemo.armor = 14f;
-		teemo.moveSpeed = 330;
+		teemo.moveSpeed = 330;*/
 	}
 }

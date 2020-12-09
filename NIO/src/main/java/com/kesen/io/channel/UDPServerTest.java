@@ -6,4 +6,8 @@ package com.kesen.io.channel;
  * @Description:
  **/
 public class UDPServerTest {
+	public static void main(String[] args) {
+		UDPServer server = new UDPServer();
+		server.receive();
+	}
 }

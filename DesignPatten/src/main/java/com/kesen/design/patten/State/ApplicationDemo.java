@@ -6,4 +6,14 @@ package com.kesen.design.patten.State;
  * @Description:
  **/
 public class ApplicationDemo {
+
+	public static void main(String[] args) {
+
+		MarioStateMachine mario = new MarioStateMachine();
+
+		mario.obtainMushRoom();
+
+
+
+	}
 }

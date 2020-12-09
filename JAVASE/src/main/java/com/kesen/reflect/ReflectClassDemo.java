@@ -7,7 +7,7 @@ import java.util.Calendar;
  * @Date: 2020/11/29 20:09
  * @Description:
  **/
-public class ReflectDemo {
+public class ReflectClassDemo {
 
 	public static void main(String[] args) {
 
